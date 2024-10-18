@@ -1,1 +1,3 @@
-# my iterm2 profile setting
+# terminal profiles
+- iterm2 profile
+- gnome terminal profile
